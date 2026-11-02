@@ -1,0 +1,8 @@
+{
+  "name": "Remix NovaTube - Universal Video \u0026 MP3 Downloader",
+  "description": "Fast, high-fidelity YouTube video and audio downloader. Download 4K, 1080p, 720p MP4 videos and high-bitrate 320kbps MP3s with quality options and trimming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
